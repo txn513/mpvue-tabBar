@@ -1,0 +1,58 @@
+
+.tabbar-wrap.data-v-155f7ef3 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 92rpx;
+  width: 100%;
+  padding-top: 6rpx;
+  box-shadow: 0 0 2rpx #c4c4c4;
+}
+.tabbar-wrap.isIphoneX.data-v-155f7ef3 {
+  padding-bottom: 66rpx;
+}
+.tabbar-wrap .tabbar.data-v-155f7ef3 {
+  display: flex;
+}
+.tabbar-wrap .tabbar .tabbar-item.data-v-155f7ef3 {
+  flex: 1;
+}
+.tabbar-wrap .tabbar .tabbar-item .tabbar-icon.data-v-155f7ef3 {
+  height: 56rpx;
+  text-align: center;
+  position: relative;
+}
+.tabbar-wrap .tabbar .tabbar-item .tabbar-icon ._img.data-v-155f7ef3 {
+  width: 56rpx;
+  height: 56rpx;
+}
+.tabbar-wrap .tabbar .tabbar-item .tabbar-icon ._img.imgSpecial.data-v-155f7ef3 {
+  width: 84rpx;
+  height: 84rpx;
+}
+.tabbar-wrap .tabbar .tabbar-item .tabbar-text.data-v-155f7ef3 {
+  text-align: center;
+  line-height: 36rpx;
+  color: #979795;
+  font-size: 22rpx;
+}
+.tabbar-wrap .tabbar .tabbar-item .tabbar-text.active.data-v-155f7ef3 {
+  color: #45b7af;
+}
+.tabbar-wrap .tabbar .tabbar-item.wrapSpecial .tabbar-icon.data-v-155f7ef3 {
+  position: absolute;
+  top: -36rpx;
+  width: 84rpx;
+  height: 84rpx;
+  padding: 6rpx;
+  top: -36rpx;
+  left: 50%;
+  margin-left: -48rpx;
+  border-radius: 50%;
+  border-top: 2rpx solid #c4c4c4;
+  text-align: center;
+}
+.tabbar-wrap .tabbar .tabbar-item.wrapSpecial .tabbar-text.data-v-155f7ef3 {
+  position: relative;
+  bottom: -56rpx;
+}

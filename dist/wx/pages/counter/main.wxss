@@ -1,0 +1,12 @@
+
+.counter-warp {
+  text-align: center;
+  margin-top: 100rpx;
+}
+.home {
+  display: inline-block;
+  margin: 100rpx auto;
+  padding: 5rpx 10rpx;
+  color: blue;
+  border: 1rpx solid blue;
+}
