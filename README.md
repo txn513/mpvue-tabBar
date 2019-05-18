@@ -1,7 +1,7 @@
 # mpvue-tabBar
 一个mpvue 自定义小程序tabBar
 
-![1](/Users/txn513/Desktop/mpvue-tabBar/screenshot/1.png)
+![1](screenshot/1.png)
 
 ## 安装
 
