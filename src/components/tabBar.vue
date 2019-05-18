@@ -36,6 +36,7 @@
           {
             pagePath: "/pages/index/main",
             iconPath: "/static/tabbar/icon_release.png",
+            selectedIconPath: "/static/tabbar/icon_release.png",
             isSpecial: true,
             text: "记账"
           },
@@ -89,6 +90,8 @@
     width 100%
     padding-top 6px
     box-shadow 0 0 2px #C4C4C4
+    z-index 1000
+    background #fff
     &.isIphoneX
         padding-bottom 66rpx
     .tabbar 
@@ -125,6 +128,7 @@
                     border-radius 50%
                     border-top 2px solid #C4C4C4
                     text-align center
+                    background #fff
                 .tabbar-text
                     position relative
                     bottom -56px
