@@ -20,7 +20,6 @@
 </template>
 
 <script>
-import utils from '@/utils'
   export default {
     props: ['selectNavIndex'],
     data() {
@@ -127,7 +126,7 @@ import utils from '@/utils'
                     border-top 2px solid #C4C4C4
                     text-align center
                 .tabbar-text
-                    position     relative
+                    position relative
                     bottom -56px
 
 </style>

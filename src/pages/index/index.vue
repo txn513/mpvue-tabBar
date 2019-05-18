@@ -31,6 +31,7 @@
         </div>
     </div> -->
 
+    <!-- 使用组件 -->
     <tab-bar :selectNavIndex="0"></tab-bar>
   </div>
 </template>

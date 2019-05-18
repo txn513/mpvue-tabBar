@@ -1,4 +1,4 @@
-<template name="c8e273d8">
+<template name="2970c952">
   <view class="_div data-v-155f7ef3 tabbar-wrap {{isIphoneX ? 'isIphoneX' : ''}}">
     <view class="_ul data-v-155f7ef3 tabbar">
       <view class="_li data-v-155f7ef3 tabbar-item {{item.isSpecial ? 'wrapSpecial' : ''}}" wx:key="index" key="{{index}}" bindtap="handleProxy" data-eventid="{{'0_'+index}}" data-comkey="{{$k}}" wx:for="{{navList}}" wx:for-index="index" wx:for-item="item">

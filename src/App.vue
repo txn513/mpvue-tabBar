@@ -28,7 +28,7 @@ export default {
     }
 
     // tabBar配置
-    wx.hideTabBar({})
+    wx.hideTabBar()
     // 获取系统信息，适配iphoneX
 
     console.log(store)
